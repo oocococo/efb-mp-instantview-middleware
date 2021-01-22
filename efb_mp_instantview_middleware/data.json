@@ -1,0 +1,254 @@
+[{
+    'tag': 'p',
+    'attrs': {
+        'class': ['rich_media_content'],
+        'id': 'js_content',
+        'hidden': 'True'
+    },
+    'children': ['\n', {
+        'tag': 'p',
+        'attrs': {
+            'data-tool': 'mdnice编辑器',
+            'data-website': 'https://www.mdnice.com',
+            'data-mpa-powered-by': 'yiban.io'
+        },
+        'children': [{
+            'tag': 'p',
+            'attrs': {},
+            'children': [{
+                'tag': 'p',
+                'attrs': {},
+                'children': ['两位大佬就是顶级号主 ']
+            }, {
+                'tag': 'code',
+                'attrs': {},
+                'children': ['Guide 哥']
+            }, {
+                'tag': 'p',
+                'attrs': {},
+                'children': ['和']
+            }, {
+                'tag': 'code',
+                'attrs': {},
+                'children': ['雷架']
+            }, {
+                'tag': 'p',
+                'attrs': {},
+                'children': ['了，他俩的技术都非常厉害，悟空望其项背，这次雷架盛情邀约一起']
+            }, {
+                'tag': 'code',
+                'attrs': {},
+                'children': ['交流技术']
+            }, {
+                'tag': 'p',
+                'attrs': {},
+                'children': ['，作为一名小弟，当然要赴约了。']
+            }, {
+                'tag': 'p',
+                'attrs': {},
+                'children': ['聚会的地点距离我家有大约']
+            }, {
+                'tag': 'code',
+                'attrs': {},
+                'children': ['40 公里']
+            }, {
+                'tag': 'p',
+                'attrs': {},
+                'children': ['的路程，为了交流技术，']
+            }, {
+                'tag': 'strong',
+                'attrs': {},
+                'children': ['悟空也算是西天取小经了一把']
+            }, {
+                'tag': 'p',
+                'attrs': {},
+                'children': ['。']
+            }]
+        }, {
+            'tag': 'p',
+            'attrs': {},
+            'children': [{
+                'tag': 'p',
+                'attrs': {},
+                'children': ['']
+            }]
+        }, {
+            'tag': 'p',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': ['武汉的烧烤算是比较出名的，物美价廉。上次和 Guide 哥还有一枝花一起吃过烧烤，没想到 Guide 哥的品味依旧没变，钟爱武汉的烧烤啊！听说 Guide 哥很能喝，就', {
+                'tag': 'strong',
+                'attrs': {},
+                'children': ['点了 n 瓶啤酒试试 Guide 哥的酒量吧']
+            }, '。']
+        }, {
+            'tag': 'p',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': ['雷架约我和 Guide 哥好多次线下交流技术，这次终于大家都有时间，安排上了。雷架看起来', {
+                'tag': 'strong',
+                'attrs': {},
+                'children': ['斯斯文文']
+            }, '的，但是', {
+                'tag': 'strong',
+                'attrs': {},
+                'children': ['语出惊人']
+            }, '，确实符合程序猿的气质，是吧？']
+        }, {
+            'tag': 'p',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': ['下面是聚会的地方，来张合照吧，武汉的疫情防控不能松懈，口罩要带好~']
+        }, {
+            'tag': 'figure',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': [{
+                'tag': 'img',
+                'attrs': {
+                    'data-ratio': '0.7565347274085138',
+                    'data-src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOwMAjkmy6e7hkqRPvTuiaHQj46VlgZDysXNxiaWy3ybicryrEsMdnrp0ibA/640?wx_fmt=png',
+                    'data-type': 'png',
+                    'data-w': '1339',
+                    'src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOwMAjkmy6e7hkqRPvTuiaHQj46VlgZDysXNxiaWy3ybicryrEsMdnrp0ibA/640?wx_fmt=png'
+                },
+                'children': [{
+                    'tag': 'figcaption',
+                    'attrs': {},
+                    'children': ['合照']
+                }]
+            }]
+        }, {
+            'tag': 'p',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': ['武汉太冷了，在外面等位的时候烤火在，还蛮有意思的~']
+        }, {
+            'tag': 'p',
+            'attrs': {},
+            'children': [{
+                'tag': 'img',
+                'attrs': {
+                    'class': ['rich_pages'],
+                    'data-ratio': '0.7619493908153702',
+                    'data-s': '300,640',
+                    'data-src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOF5BvuWZoYmZ0eciaRewqQemsrUMgic1oqNbftbOBRJGOWDkjYib2vPMdw/640?wx_fmt=png',
+                    'data-type': 'png',
+                    'data-w': '1067',
+                    'src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOF5BvuWZoYmZ0eciaRewqQemsrUMgic1oqNbftbOBRJGOWDkjYib2vPMdw/640?wx_fmt=png'
+                }
+            }]
+        }, {
+            'tag': 'p',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': ['Guide哥喝酒确实厉害~让我想起了一首歌，人生短短几个秋，不醉不罢休~', '']
+        }, {
+            'tag': 'figure',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': [{
+                'tag': 'img',
+                'attrs': {
+                    'data-ratio': '1.3324074074074075',
+                    'data-src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOFtxzueaKkv9IgUGYszIKPEIeAMbJqOgUWiaescvUwKTEsD2IPMsCzAA/640?wx_fmt=png',
+                    'data-type': 'png',
+                    'data-w': '1080',
+                    'src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOFtxzueaKkv9IgUGYszIKPEIeAMbJqOgUWiaescvUwKTEsD2IPMsCzAA/640?wx_fmt=png'
+                }
+            }]
+        }, {
+            'tag': 'p',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': ['烧烤撸起来吧，真的是分量超足啊！听雷架说晚上他只吃一碗粥和水果的，养生么？']
+        }, {
+            'tag': 'figure',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': [{
+                'tag': 'img',
+                'attrs': {
+                    'data-ratio': '1.3342857142857143',
+                    'data-src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTO2b3iacgsRkUNibCkp7f64yic5dmT1Or8Os8SVoP9dmrtsjYL0P9cj56Aw/640?wx_fmt=png',
+                    'data-type': 'png',
+                    'data-w': '350',
+                    'src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTO2b3iacgsRkUNibCkp7f64yic5dmT1Or8Os8SVoP9dmrtsjYL0P9cj56Aw/640?wx_fmt=png'
+                }
+            }]
+        }, {
+            'tag': 'p',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': ['Guide 哥是', {
+                'tag': 'code',
+                'attrs': {},
+                'children': ['JavaGuide']
+            }, '的号主，专注 Java 后端学习和大厂面试，开源项目 - JavaGuide (90k+star) 作者，一个有理想有情怀的技术大佬。']
+        }, {
+            'tag': 'figure',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': [{
+                'tag': 'img',
+                'attrs': {
+                    'data-ratio': '1',
+                    'data-src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOEl4mawZW4B53qez6ZpH9QX9RRGq4sibrT5I2kZ4Kic4Gns5pibOxycNaw/640?wx_fmt=png',
+                    'data-type': 'png',
+                    'data-w': '258',
+                    'src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOEl4mawZW4B53qez6ZpH9QX9RRGq4sibrT5I2kZ4Kic4Gns5pibOxycNaw/640?wx_fmt=png'
+                }
+            }]
+        }, {
+            'tag': 'p',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': ['雷架是', {
+                'tag': 'code',
+                'attrs': {},
+                'children': ['爱笑的架构师']
+            }, '的号主。人挺帅，说话风趣幽默，华中科技大学硕士，目前大厂打工中。他的公号平时会发一些 Java 后端相关的文章，质量都非常高！']
+        }, {
+            'tag': 'figure',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': [{
+                'tag': 'img',
+                'attrs': {
+                    'data-ratio': '1',
+                    'data-src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOuLyXxmoUdPDvtsHSYkfxwtibXaFV9SOc5h1lfLNzJZm2SV1HHS8yqAA/640?wx_fmt=png',
+                    'data-type': 'png',
+                    'data-w': '344',
+                    'src': 'https://mmbiz.qpic.cn/mmbiz_png/SfAHMuUxqJ2TkYoVHfFsLVW8tds6vnTOuLyXxmoUdPDvtsHSYkfxwtibXaFV9SOc5h1lfLNzJZm2SV1HHS8yqAA/640?wx_fmt=png'
+                }
+            }]
+        }, {
+            'tag': 'p',
+            'attrs': {
+                'data-tool': 'mdnice编辑器'
+            },
+            'children': [{
+                'tag': 'p',
+                'attrs': {},
+                'children': [{
+                    'tag': 'strong',
+                    'attrs': {},
+                    'children': ['强烈推荐大家关注一下这两位技术大佬。']
+                }]
+            }]
+        }]
+    }, '\n']
+}]

@@ -46,7 +46,8 @@ setup(
         "ehforwarderbot>=2.0.0",
         "PyYaml",
         "bs4",
-        "requests[socks]"
+        "requests[socks]",
+        "psycopg2"
     ],
     entry_points={
         'ehforwarderbot.middleware': 'catbaron.mp_instantview = efb_mp_instantview_middleware:MPInstantViewMiddleware'

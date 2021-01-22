@@ -98,7 +98,6 @@ class Telegraph:
         # soup = bs(res.data.decode('utf-8'), features="html.parser")
         res = self.spider.get(url)
         soup = bs(res.text, features="html.parser")
-
         try:
             title = soup.select('#activity-name')[0].text.strip()
         except IndexError:

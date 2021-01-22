@@ -10,7 +10,7 @@ from ehforwarderbot import coordinator, Middleware, Message
 from ehforwarderbot.utils import get_config_path
 from . import __version__ as version
 from .telegraph import Telegraph
-
+from .wxmp import savempeassy
 
 class MPInstantViewMiddleware(Middleware):
     """
@@ -77,6 +77,8 @@ class MPInstantViewMiddleware(Middleware):
         #     name=f"MPInstantView thread {message.uid}"
         #     ).start()
         message = self.process_url(message)
+        # save mp eassy to postgresql(wxmp)
+        savempeassy(message)
         return message
 
     def process_url(self, message: Message):
