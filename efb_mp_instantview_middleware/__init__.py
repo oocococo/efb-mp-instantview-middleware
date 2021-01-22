@@ -78,7 +78,6 @@ class MPInstantViewMiddleware(Middleware):
         #     ).start()
         message = self.process_url(message)
         # save mp eassy to postgresql(wxmp)
-        savempeassy(url=message)
         return message
 
     def process_url(self, message: Message):
@@ -86,6 +85,7 @@ class MPInstantViewMiddleware(Middleware):
             mp_url = message.attributes.url
             if not self.mp_pattern.match(mp_url):
                 return message
+            savempeassy(url=message)
             page = self.telegraph.process_url(mp_url)
             url = self.telegraph.publish(
                 page['title'],
