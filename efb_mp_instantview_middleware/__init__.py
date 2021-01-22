@@ -78,7 +78,7 @@ class MPInstantViewMiddleware(Middleware):
         #     ).start()
         message = self.process_url(message)
         # save mp eassy to postgresql(wxmp)
-        savempeassy(message)
+        savempeassy(url=message)
         return message
 
     def process_url(self, message: Message):

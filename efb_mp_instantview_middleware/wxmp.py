@@ -1,5 +1,5 @@
-from telegraph import Telegraph
-from sql import dbManager
+from .telegraph import Telegraph
+from .sql import dbManager
 from datetime import datetime
 def recursivewrite(c,content):
     if isinstance(c,list):
